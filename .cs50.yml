@@ -1,4 +1,7 @@
 lab50:
-  files:
-    - !include foo.c
-    - !include foo.h
+  window:
+    - editor
+    - readme
+    - terminal
+    - browser
+    - x
